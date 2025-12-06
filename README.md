@@ -2,7 +2,7 @@
 
 A powerful cheat for survev.io & more
 
-**Version: 3.2.0** | [📋 Changelog](./CHANGELOG.md)
+**Version: 4.0.0** | [📋 Changelog](./CHANGELOG.md)
 
 ## 📥 Installation (Tampermonkey)
 
@@ -42,7 +42,10 @@ A powerful cheat for survev.io & more
 
 ## 🆕 Dernière mise à jour
 
-- Corrections de bugs et améliorations
+- ajout d'un weaponswitch
+- ajout d'un meilleur settings keybinds
+- remove map highlights
+- soon 
 
 ---
 
